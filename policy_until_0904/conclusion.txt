@@ -1,0 +1,17 @@
+효과 있는 정책
+어린이집 폐쇄(Education)
+마스크 공공 판매와 5부제 시행(Health)
+해외입국 차단(Immigration)
+해외 입국자 자가격리(Immigration)
+강한 사회적 거리두기(Social)
+생활 속 거리두기(Social)
+
+효과 없는 정책
+바 클럽 폐쇄(Administrative)
+노래방 폐쇄(Administrative)
+중국 발 해외입국 차단(Immigration)
+전국 사회적 거리두기 2.5단계(Social)(아직까지는)
+대중교통 마스크 착용 의무 여부(Transformation)
+
+정책에 따른 확진자수 변화를 잘 보여주는 정책(효과는 없음)
+전염병 경고 단계(Alert)
